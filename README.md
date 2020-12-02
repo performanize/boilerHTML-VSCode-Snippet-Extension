@@ -8,7 +8,7 @@ Feature description will be added.
 
 ## Requirements
 
-No external requirements.
+This extension has no external requirements.
 
 ## Extension Settings
 
