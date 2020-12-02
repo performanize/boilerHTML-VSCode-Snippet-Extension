@@ -1,6 +1,6 @@
-# boilerHTML README
+# boilerHTML VS Code snippet extension
 
-A very extensive HTML5 boilerplate.
+A VS Code snippet extension for boilerHTML, a very extensive HTML5 boilerplate.
 
 ## Features
 
