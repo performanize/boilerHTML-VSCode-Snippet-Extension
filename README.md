@@ -12,9 +12,9 @@ This extension has no external requirements.
 
 ## Extension Settings
 
-boilerHTML contributes the following settings:
+boilerHTML contributes the following settings: <== TODO
 
-* `boilerHTML.enable`: enable/disable this extension
+* `boilerHTML.enable`: enable/disable this extension <== TODO
 
 ## Known Issues
 
