@@ -14,15 +14,17 @@ This extension has no external requirements.
 
 ## Extension Settings
 
-boilerHTML contributes the following settings: <== TODO
-
-* `boilerHTML.enable`: enable/disable this extension <== TODO
+This extension has no settings
 
 ## Known Issues
 
 No known issues.
 
 ## Release Notes
+
+### [0.1.4] - 2020-11-03
+
+Extension package sanitized
 
 ### 0.1.3
 
