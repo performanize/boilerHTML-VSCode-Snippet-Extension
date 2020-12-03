@@ -1,7 +1,9 @@
 {
     "name": "boilerhtml",
+    "publisher": "performanize",
     "displayName": "boilerHTML",
     "description": "A very extensive HTML5 boilerplate.",
+    "repository": "https://github.com/performanize/boilerHTML-VSCode-Snippet-Extension/",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"
