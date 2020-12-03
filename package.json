@@ -10,6 +10,10 @@
     "starter",
     "HTML boilerplate"
   ],
+  "galleryBanner": {
+    "color": "#EEEEEE",
+    "theme": "dark"
+  },
   "homepage": "https://boilerHTML.com",
   "license": "MIT",
   "icon": "icon-128x128.png",
