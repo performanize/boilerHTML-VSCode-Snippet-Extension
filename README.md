@@ -4,6 +4,10 @@ A VS Code snippet extension for boilerHTML, a very extensive HTML5 boilerplate.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+[Extension Homepage](https://github.com/performanize/boilerHTML_VSCode_extension/blob/master/CHANGELOG.md "boilerHTML Homepage")
+
+[Install the extension](vscode:extension/Performanizecom.boilerhtml)
+
 ## Features
 
 ### HTML5 boilerplate snippet
