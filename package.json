@@ -3,7 +3,13 @@
   "publisher": "Performanizecom",
   "displayName": "boilerHTML",
   "description": "A very extensive HTML5 boilerplate.",
-  "keywords": ["HTML", "Snippet", "boilerplate", "starter", "HTML boilerplate"],
+  "keywords": [
+    "HTML",
+    "Snippet",
+    "boilerplate",
+    "starter",
+    "HTML boilerplate"
+  ],
   "homepage": "https://boilerHTML.com",
   "license": "MIT",
   "icon": "icon-128x128.png",
@@ -11,7 +17,7 @@
     "type": "git",
     "url": "https://github.com/performanize/boilerHTML-VSCode-Snippet-Extension/"
   },
-  "version": "0.1.3",
+  "version": "0.1.4",
   "engines": {
     "vscode": "^1.51.0"
   },
