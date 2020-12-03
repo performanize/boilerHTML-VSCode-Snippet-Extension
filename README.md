@@ -1,12 +1,16 @@
 # boilerHTML VS Code snippet extension
 
-A VS Code snippet extension for boilerHTML, a very extensive HTML5 boilerplate.
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-[Extension Homepage](https://github.com/performanize/boilerHTML_VSCode_extension/blob/master/README.md "boilerHTML Homepage")
+[Install the extension](vscode:extension/Performanizecom.boilerhtml) | [Extension Homepage](https://github.com/performanize/boilerHTML_VSCode_extension/blob/master/README.md "boilerHTML Homepage")
 
-[Install the extension](vscode:extension/Performanizecom.boilerhtml)
+A VS Code snippet extension for boilerHTML, a very extensive HTML5 boilerplate.
+
+This snippet extension inserts the HTML5 code in any HTML file.
+
+## Usage
+
+**Start typing 'boilerHTML' and press enter when intellisense shows a popup.**
 
 ## Features
 
