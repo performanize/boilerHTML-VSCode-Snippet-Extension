@@ -22,6 +22,6 @@ No known issues.
 
 ## Release Notes
 
-### 0.0.1
+### 0.1.3
 
-Release of a first version
+Ready for publishing

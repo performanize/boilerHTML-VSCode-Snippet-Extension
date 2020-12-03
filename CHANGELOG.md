@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release comming soon
+
+### [0.1.3] - 2020-11-03
+
+- Ready for publishing
