@@ -6,7 +6,9 @@ A VS Code snippet extension for boilerHTML, a very extensive HTML5 boilerplate.
 
 ## Features
 
-Feature description will be added.
+### HTML5 boilerplate snippet
+
+* Complete HTML5 boilerplate snippet
 
 ## Requirements
 
