@@ -2,6 +2,8 @@
 
 A VS Code snippet extension for boilerHTML, a very extensive HTML5 boilerplate.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## Features
 
 Feature description will be added.

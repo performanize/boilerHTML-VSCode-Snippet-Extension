@@ -5,11 +5,8 @@
   "description": "A very extensive HTML5 boilerplate.",
   "keywords": ["HTML", "Snippet", "boilerplate", "starter", "HTML boilerplate"],
   "homepage": "https://boilerHTML.com",
+  "license": "MIT",
   "icon": "icon-128x128.png",
-  "galleryBanner": {
-    "color": "#C80000",
-    "theme": "dark"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/performanize/boilerHTML-VSCode-Snippet-Extension/"
