@@ -24,6 +24,10 @@ No known issues.
 
 ## Release Notes
 
+### 0.1.8 - 2020-11-03
+
+Updated README.md
+
 ### 0.1.7 - 2020-11-03
 
 Updated README.md
