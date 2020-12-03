@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.1.12] - 2020-11-03
+
+### Fixed
+
+- Typos
+
 ## [0.1.11] - 2020-11-03
 
 ### Removed
