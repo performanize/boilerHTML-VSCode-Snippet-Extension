@@ -6,11 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- TBD
+## [0.1.10] - 2020-11-03
 
-## Releases
+### Added
 
-### [0.1.9] - 2020-11-03
+- Download example package
+
+## [0.1.9] - 2020-11-03
+
+### Changed
 
 - Linked release notes to CHANGELOG.md
 - Changed repo link
