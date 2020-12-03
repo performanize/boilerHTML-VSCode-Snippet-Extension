@@ -4,7 +4,7 @@
   "displayName": "boilerHTML",
   "description": "A very extensive HTML5 boilerplate.",
   "homepage": "https://boilerHTML.com",
-  "icon": "https://raw.githubusercontent.com/performanize/boilerHTML-VSCode-Snippet-Extension/master/icon-128x128.png",
+  "icon": "icon-128x128.png",
   "galleryBanner": {
     "color": "#C80000",
     "theme": "dark"
