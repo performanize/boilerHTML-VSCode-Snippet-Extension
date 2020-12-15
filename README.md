@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-[Extension Homepage](https://github.com/performanize/boilerHTML_VSCode_extension/blob/master/README.md "Extension Homepage") | [Download example package](https://github.com/performanize/boilerHTML "Download example package")
+[Extension on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Performanizecom.boilerhtml "Extension in VS Code Marketplace") | [Extension Homepage](https://github.com/performanize/boilerHTML_VSCode_extension/blob/master/README.md "Extension Homepage") | [Download example package](https://github.com/performanize/boilerHTML "Download example package")
 
 A VS Code snippet extension for boilerHTML, a very extensive HTML5 boilerplate.
 
